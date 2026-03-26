@@ -1,0 +1,16 @@
+# Core Object Detection
+ultralytics==8.3.231
+torch==2.9.1
+torchvision==0.24.1
+
+# Data Processing & Visualization
+numpy==2.4.2
+pandas==3.0.0
+opencv-python==4.11.0.86
+matplotlib==3.10.6
+seaborn==0.13.2
+PyYAML==6.0.3
+
+# Utilities
+tqdm==4.67.1
+kagglehub==1.0.0

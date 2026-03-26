@@ -1,0 +1,17 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Datasets
+datasets/
+data/
+images/
+labels/
+
+# YOLO Training outputs
+runs/
+*.pt
+
+# Virtual environments
+venv/
+.env
