@@ -15,3 +15,6 @@ runs/
 # Virtual environments
 venv/
 .env
+
+# Videos
+*.mp4

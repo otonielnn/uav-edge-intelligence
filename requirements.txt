@@ -14,3 +14,7 @@ PyYAML==6.0.3
 # Utilities
 tqdm==4.67.1
 kagglehub==1.0.0
+
+# Download YouTube videos
+yt-dlp==2026.3.17
+pytubefix==10.3.8
